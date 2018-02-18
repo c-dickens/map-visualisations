@@ -1,0 +1,5 @@
+# all files in data directory
+data
+*/data
+/data/*
+.DS_Store
